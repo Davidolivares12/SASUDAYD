@@ -1,6 +1,6 @@
 > ## **`versión: Beta`**
 
-<h1 align="center">🚀 ASTRO-BOT ☄️</h1>
+<h1 align="center">🚀 GB-BOT-MD ☄️</h1>
 
 ---
 <p align="center">
