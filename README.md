@@ -1,6 +1,6 @@
 > ## **`versión: Beta`**
 
-<h1 align="center">🚀 SASUDAYD ☄️</h1>
+<h1 align="center"> 🌟SASUDAYD 🌟</h1>
 
 ---
 <p align="center">
